@@ -11,7 +11,14 @@ Eu digitei o seguinte texto no prompt "generare a ultra photorealistic picture o
 
 ## 🚀 Resultados
 
-![screenshot]([http://url/to/img.png](https://github.com/HevansViniciusPereira/lab-natty-or-not/blob/main/1714375566-237e001a209e6d538ebceeabff673546-4.jpeg))
+
+<p align="center">
+  <img src="1714375566-237e001a209e6d538ebceeabff673546-4.jpeg" width="350" title="hover text">
+</p>
+
+2
+
+![screenshot](https://github.com/HevansViniciusPereira/lab-natty-or-not/blob/main/1714375566-237e001a209e6d538ebceeabff673546-4.jpeg)
 
 
 ## 💭 Reflexão (Opcional)
